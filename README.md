@@ -6,8 +6,10 @@ when you scroll down the page, in every section you will pass through, there wil
 when you click on any section in the navbar, the page will take you directly to the section on the page in smooth move
 
 ## functionalities 
-1 - bulding the navbar sections dynamically
+1 - building the navbar sections dynamically
+
 2 - dynamic active class&anchor 
+
 3 - smooth scrolling   
 
 ## author 
