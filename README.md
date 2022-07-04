@@ -13,4 +13,4 @@ when you click on any section in the navbar, the page will take you directly to 
 3 - smooth scrolling   
 
 ## author 
-Elsayed Ahmed Mohamed
+Elsayed Mersal
